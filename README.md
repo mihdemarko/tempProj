@@ -1,14 +1,11 @@
 # Simple text editor
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Attemt to create text editor using content editable div with react
 
 ## Initial setup
-Run `npm install` in order to setup application
+Run `npm install` or `yarn install` in order to setup application
 
 ## Development server
 Run `npm start` for a dev server.
 
-## Notes
-+ Text sample is given in `text.service.js`
-+ Given files structure is not obligatory and could be changed
 
 
